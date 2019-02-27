@@ -1,6 +1,6 @@
 # Credit_Card_Fraud_Detection
 
-This is a Machine Learning based model developed in Python for the detection of fraudaulent credit card's transactions.
+This is a Machine Learning based model developed in Python for the detection of fraudulent credit card's transactions.
 
 ## Dataset :-
 
@@ -33,7 +33,7 @@ Following are the parameters :-
 
 ## Algorithms
 
-    The algorithms used are Local Outlier Factor and Random Forests. Former one achieved efficiency upto 99.75% and the later one upto 99.65%. They were imported from the Sklearn module.
+    The algorithms used are Local Outlier Factor and Random Forests. Former one achieved efficiency of 99.75% and the later one of 99.65%. They were imported from the Sklearn module.
     
 ### Final Result
 
