@@ -11,7 +11,7 @@ The dataset contains 31 parameters and each parameter is having more than 2 lakh
 Following are the parameters :-
 
     a) Time : Time of transaction
-    b) V1-V28 : V1 to V28 are the results of PCA dimensionality reduction that was used to protect sensitive information in                   this dataset.Like location or name of the user.
+    b) V1-V28 : V1 to V28 are the results of PCA dimensionality reduction that was used to protect sensitive information in     this dataset.Like location or name of the user.
     c) Amount : Amount for which transaction was done.
     d) Class : Class 0 represents a fraudaulent transaction and Class 1 represents a genuine transaction.
     
