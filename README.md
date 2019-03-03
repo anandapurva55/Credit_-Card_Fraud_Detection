@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection
 
 This is a Machine Learning based model developed in Python for the detection of fraudulent credit card's transactions.
 
